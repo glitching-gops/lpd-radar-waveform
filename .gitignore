@@ -1,0 +1,12 @@
+*.hdf5
+*.h5
+checkpoints/
+*.pt
+*.pth
+wandb/
+*.npy
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
