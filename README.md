@@ -5,11 +5,11 @@
 ![Status](https://img.shields.io/badge/status-active--research-yellow)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-**A controlled replication of GAN-based low-probability-of-detection (LPD) radar waveform design — and an investigation into why distributional stealth is harder than it looks.**
+
 
 M.Tech thesis project · Rajiv Gandhi Institute of Petroleum Technology · IDD CSE & AI, Batch 2022
 
-> Built on and replicating: Ziemann & Metzler, *"Adaptive LPD Radar Waveform Design with Generative Deep Learning"*, [arXiv:2403.12254](https://arxiv.org/abs/2403.12254) (2024)
+> Built on: Ziemann & Metzler, *"Adaptive LPD Radar Waveform Design with Generative Deep Learning"*, [arXiv:2403.12254](https://arxiv.org/abs/2403.12254) (2024)
 
 ---
 
